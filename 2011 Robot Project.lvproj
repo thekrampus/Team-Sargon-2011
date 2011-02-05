@@ -128,6 +128,7 @@ KeepAliveTimeout 60
 		<Item Name="Pneumatics Control.vi" Type="VI" URL="../Pneumatics Control.vi"/>
 		<Item Name="Camera Init.vi" Type="VI" URL="../Camera Init.vi"/>
 		<Item Name="CAM Motor Init.vi" Type="VI" URL="../CAM Motor Init.vi"/>
+		<Item Name="Antennae Controls.vi" Type="VI" URL="../Antennae Controls.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
@@ -490,6 +491,8 @@ KeepAliveTimeout 60
 				<Item Name="WPI_CANJaguar_ChangeMode.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_ChangeMode.vi"/>
 				<Item Name="WPI_CANJaguar_ConfigBrakeCoast.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/Configuration/WPI_CANJaguar_ConfigBrakeCoast.vi"/>
 				<Item Name="WPI_CANJaguar_BrakeCoastMode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/Jaguar/SubVIs/WPI_CANJaguar_BrakeCoastMode.ctl"/>
+				<Item Name="WPI_ERRMotorControlCANJaguarDevice.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_ERRMotorControlCANJaguarDevice.vi"/>
+				<Item Name="WPI_ERRMotorControlCANJaguarFirmware.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_ERRMotorControlCANJaguarFirmware.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
