@@ -130,6 +130,7 @@ KeepAliveTimeout 60
 		<Item Name="CAM Motor Init.vi" Type="VI" URL="../CAM Motor Init.vi"/>
 		<Item Name="Antennae Controls.vi" Type="VI" URL="../Antennae Controls.vi"/>
 		<Item Name="ImageGrid.vi" Type="VI" URL="../2011 Robot Project/ImageGrid.vi"/>
+		<Item Name="Color Selector.vi" Type="VI" URL="../Color Selector.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
