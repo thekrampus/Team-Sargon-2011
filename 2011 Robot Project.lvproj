@@ -132,6 +132,7 @@ KeepAliveTimeout 60
 		<Item Name="ImageGrid.vi" Type="VI" URL="../2011 Robot Project/ImageGrid.vi"/>
 		<Item Name="Color Selector.vi" Type="VI" URL="../Color Selector.vi"/>
 		<Item Name="Manual Solenoid Controls.vi" Type="VI" URL="../Manual Solenoid Controls.vi"/>
+		<Item Name="Solenoid Controls.vi" Type="VI" URL="../Solenoid Controls.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
