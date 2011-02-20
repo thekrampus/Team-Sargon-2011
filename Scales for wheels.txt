@@ -1,0 +1,7 @@
+Front left-31 77.5%
+Front right-40 100%
+Rear left-35 87.5%
+Rear right-31 77.5%
+
+Left 48%
+Rear 48%
