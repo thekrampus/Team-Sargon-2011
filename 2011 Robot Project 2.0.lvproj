@@ -135,6 +135,7 @@ KeepAliveTimeout 60
 		<Item Name="Solenoid Controls2.vi" Type="VI" URL="../Solenoid Controls2.vi"/>
 		<Item Name="New Mechanum Drive.vi" Type="VI" URL="../New Mechanum Drive.vi"/>
 		<Item Name="CAN Init.vi" Type="VI" URL="../CAN Init.vi"/>
+		<Item Name="Solenoid Tester.vi" Type="VI" URL="../Solenoid Tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
