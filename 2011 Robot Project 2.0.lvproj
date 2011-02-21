@@ -128,7 +128,6 @@ KeepAliveTimeout 60
 		<Item Name="Manual Solenoid Controls.vi" Type="VI" URL="../Manual Solenoid Controls.vi"/>
 		<Item Name="Normalize 4.vi" Type="VI" URL="../Normalize 4.vi"/>
 		<Item Name="Pneumatics Control.vi" Type="VI" URL="../Pneumatics Control.vi"/>
-		<Item Name="Real Mecanum Drive.vi" Type="VI" URL="../Real Mecanum Drive.vi"/>
 		<Item Name="Solenoid Controls.vi" Type="VI" URL="../Solenoid Controls.vi"/>
 		<Item Name="Antennae Controls.vi" Type="VI" URL="../Antennae Controls.vi"/>
 		<Item Name="Camera Init.vi" Type="VI" URL="../Camera Init.vi"/>
