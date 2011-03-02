@@ -120,8 +120,8 @@ KeepAliveTimeout 60
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="Color Selector.vi" Type="VI" URL="../Color Selector.vi"/>
 		<Item Name="Get Joysticks.vi" Type="VI" URL="../Get Joysticks.vi"/>
+		<Item Name="Color Selector.vi" Type="VI" URL="../Color Selector.vi"/>
 		<Item Name="ImageGrid.vi" Type="VI" URL="../ImageGrid.vi"/>
 		<Item Name="ImageSnap.vi" Type="VI" URL="../ImageSnap.vi"/>
 		<Item Name="Lift Control.vi" Type="VI" URL="../Lift Control.vi"/>
